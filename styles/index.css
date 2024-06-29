@@ -4,3 +4,11 @@
     box-sizing: border-box;
 }
 
+#sec {
+    background-image: url(../images/IMG_3864\ \(2\).JPG) !important;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+
+}
