@@ -2,12 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: grifter;
 }
 
 .navi-bar {
     position: sticky;
     top: 0;
     font-size: 1.1rem;
+    background-color: #a52008 !important;
 }
 
 
@@ -29,19 +31,21 @@
 }
 
 .ttl span {
-    color: aqua;
+    color: #a52008;
 }
 
 .parap {
     font-size: 30px;
     color: white;
     font-weight: 400;
+    font-style: italic;
 }
 
 .writi {
     font-size: 16px;
     color: white;
     font-weight: 200;
+    font-family: montserrat;
 }
 
 
@@ -50,7 +54,7 @@
     height: 50px;
     color: white;
     padding: 15px 8px;
-    background-color: aqua;
+    background-color: #a52008;
     border-radius: 100%;
 
 }
