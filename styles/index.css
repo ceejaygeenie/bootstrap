@@ -14,7 +14,7 @@ body {
 
 
 .hero_a {
-    background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.55)), url(../images/IMG_3864\ \(2\).JPG) !important;
+    background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.55)), url(../images/IMG_3896.JPG) !important;
 
     background-position: center !important;
     background-repeat: no-repeat !important;
@@ -37,8 +37,19 @@ body {
 
 .icons {
     width: 40px;
+    height: 40px;
 }
 
-.icnset {
-    
+
+.ctaa {
+    margin-top: 100px !important;
+    flex-wrap: wrap;
+}
+
+.imagee {
+    height: 320px !important;
+    background-image: url(../images/IMG_3863.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
